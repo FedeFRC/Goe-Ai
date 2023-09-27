@@ -74,8 +74,10 @@ Last update: 27.09.2023
 #### Books
 |  | Year | Notes |
 |---|---|---|
-| [Deep Learning Book](https://www.deeplearningbook.org) (Goodfellow, I. et al.)| 2007 | Probably the best book on DL |
-| [Understanding Deep Learning](https://udlbook.github.io/udlbook/) (Prince, S.J.)| 2023 | The new Deep Learning Book |
+| [Deep Learning](https://www.deeplearningbook.org) (Goodfellow, I. et al.)| 2016 | FREE - Still one of the best books on DL |
+| [Understanding Deep Learning](https://udlbook.github.io/udlbook/) (Prince, S.J.)| 2023 | FREE - The new Deep Learning Book (?) |
+| [Neural Networks and Deep Learning](http://www.charuaggarwal.net/neural.htm) (Aggarwal, C.C.)| 2023 | Free only for Institution-affiliated |
+
 
 #### Courses
 |  | Year | Notes |
