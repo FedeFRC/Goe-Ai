@@ -143,10 +143,13 @@ Last update: 26.09.2023
 Last update: 26.09.2023
 
 ### People <a name ="people"> </a>
-Last update: 26.09.2023
+Last update: 02.10.2023
+|  | Social | Notes |
+|---|---|---|
+| Robert Scoble | [@Scobleizer](https://twitter.com/Scobleizer) | Ai News + Lists on products etc. |
 
 ### Repos <a name ="repos"> </a>
-Last update: 2.10.2023
+Last update: 02.10.2023
 |  | Notes |
 |---|---|
 |[louisbf](https://github.com/louisfb01/start-machine-learning/blob/master/README.md?plain=1#youtubevideos)| well curated repo on DL and ML |
