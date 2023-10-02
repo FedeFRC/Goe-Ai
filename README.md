@@ -30,12 +30,12 @@ ___
 ### LLMs
 ##### Last update: 27.09.2023
 
-|  | Notes |
-|---|---|
-| [ChatGPT(4)](https://chat.openai.com) | ... |
-| [Perplexity](https://www.perplexity.ai) | Internet access / Ref links to websites / Files upload |
-| [Bard](https://bard.google.com/?hl=en) | Not available in EU |
-| [Claude](https://claude.ai) | Not available in EU |
+|  | Price | Notes |
+|---|---|---|
+| [ChatGPT(4)](https://chat.openai.com) | | ... |
+| [Perplexity](https://www.perplexity.ai) | | Internet access / Ref links to websites / Files upload |
+| [Bard](https://bard.google.com/?hl=en) | | Not available in EU |
+| [Claude](https://claude.ai) | | Not available in EU |
 
 #### Refs
 
@@ -46,31 +46,31 @@ ___
 #### Drawing <a name ="drawing"> </a>
 Last update: 28.09.202
 
-|  | Notes |
-|---|---|
-| [Playground Ai](https://playgroundai.com) | Uses Stable Diffusion |
-| [Stable Diffusion](https://stability.ai) | ... |
-| [Midjourney](https://www.midjourney.com/) | Only on Discord / $ |
-| [NightCafè](https://creator.nightcafe.studio) | ... |
-| [DALL·E(2)](https://openai.com/dall-e-2) | ... |
+|  | Price | Notes |
+|---|---|---|
+| [Playground Ai](https://playgroundai.com) | | Uses Stable Diffusion |
+| [Stable Diffusion](https://stability.ai) | | ... |
+| [Midjourney](https://www.midjourney.com/) | | Only on Discord / $ |
+| [NightCafè](https://creator.nightcafe.studio) | | ... |
+| [BING (DALL·E 3)](https://www.bing.com) | | ... |
 | | |
-| [Clipdrop](https://clipdrop.co) | Remove background, Upscale, etc. (by Stability.ai)|
+| [Clipdrop](https://clipdrop.co) | | Remove background, Upscale, etc. (by Stability.ai)|
 
 
 #### Video <a name ="video"> </a>
 Last update: 27.09.2023
 
-|  | Notes |
-|---|---|
-| [Runway ML](https://runwayml.com) | ... |
-| [Kaiber](https://kaiber.ai) | ... |
+|  | Price | Notes |
+|---|---|---|
+| [Runway ML](https://runwayml.com) | | ... |
+| [Kaiber](https://kaiber.ai) | | ... |
 
 #### Music <a name ="music"> </a>
 Last update: 26.09.2023
 
-|  | Link | Notes |
+|  | Price | Notes |
 |---|---|---|
-| ... | Link | Notes |
+| ... | ... | Notes |
 
 
 #### Refs
@@ -94,9 +94,9 @@ ___
 ### Coding <a name ="coding"> </a>
 Last update: 28.09.2023
 
-|  | Notes |
-|---|---|
-| [Cursor](https://www.cursor.sh) | code with ChatGPT 3.5 and 4. VScode layout |
+|  | Price | Notes |
+|---|---|---|
+| [Cursor](https://www.cursor.sh) | | code with ChatGPT 3.5 and 4. VScode layout |
 
 #### Refs 
 
@@ -146,8 +146,10 @@ Last update: 26.09.2023
 Last update: 26.09.2023
 
 ### Repos <a name ="repos"> </a>
-Last update: 26.09.2023
-
+Last update: 2.10.2023
+|  | Notes |
+|---|---|
+|[louisbf](https://github.com/louisfb01/start-machine-learning/blob/master/README.md?plain=1#youtubevideos)| well curated repo on DL and ML |
 
 
 
