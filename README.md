@@ -28,14 +28,14 @@ ___
 ## Ai Apps / Tools <a name ="aiapps"> </a>
 
 ### LLMs
-##### Last update: 27.09.2023
+##### Last update: 03.10.2023
 
-|  | Price | Notes |
-|---|---|---|
-| [ChatGPT(4)](https://chat.openai.com) | | ... |
-| [Perplexity](https://www.perplexity.ai) | | Internet access / Ref links to websites / Files upload |
-| [Bard](https://bard.google.com/?hl=en) | | Not available in EU |
-| [Claude](https://claude.ai) | | Not available in EU |
+|  | Free | Paid | Notes |
+|---|---|---|---|
+| [ChatGPT](https://chat.openai.com) | v3.5 | 20€/Month - v4 | Best LLM so far |
+| [Perplexity](https://www.perplexity.ai) | uses ChatGPT 3.5 | 20€/Month - ChatGPT 4 / Claude2 + | Internet access / Ref links to websites / Files upload |
+| [Bard](https://bard.google.com/?hl=en) | -> | -> | Not available in EU |
+| [Claude](https://claude.ai) | -> | -> | Not available in EU |
 
 #### Refs
 
@@ -44,33 +44,32 @@ ___
 ### Creativity <a name ="creativity"> </a>
 
 #### Drawing <a name ="drawing"> </a>
-Last update: 02.10.2023
+Last update: 03.10.2023
 
-|  | Price | Notes |
-|---|---|---|
-| [Playground Ai](https://playgroundai.com) | | Uses Stable Diffusion |
-| [Stable Diffusion](https://stability.ai) | | ... |
-| [Midjourney](https://www.midjourney.com/) | | Only on Discord / $ |
-| [NightCafè](https://creator.nightcafe.studio) | | ... |
-| [BING (DALL·E 3)](https://www.bing.com) | | ... |
-| | |
-| [Clipdrop](https://clipdrop.co) | | Remove background, Upscale, etc. (by Stability.ai)|
+|  | Free | Paid | Notes |
+|---|---|---|---|
+| [Playground Ai](https://playgroundai.com) | 500 img/Month | 12€/Month - 2000 img/Month + | Uses Stable Diffusion |
+| [Stable Diffusion](https://stability.ai) | V | X | Can be used locally |
+| [Midjourney](https://www.midjourney.com/) | X | 10€/Month (min) | Beautiful images but paid + only on Discord |
+| [DALL·E 3](https://www.bing.com) | V (on BING) | | Beautiful images |
+| | | |
+| [Clipdrop](https://clipdrop.co) | V | 9€/Month - Extra Features | Edit Images - Remove bg, Upscale, etc. (by Stability.ai)|
 
 
 #### Video <a name ="video"> </a>
 Last update: 27.09.2023
 
-|  | Price | Notes |
-|---|---|---|
+|  | Free | Paid | Notes |
+|---|---|---|---|
 | [Runway ML](https://runwayml.com) | | ... |
 | [Kaiber](https://kaiber.ai) | | ... |
 
 #### Music <a name ="music"> </a>
 Last update: 26.09.2023
 
-|  | Price | Notes |
-|---|---|---|
-| ... | ... | Notes |
+|  | Free | Paid | Notes |
+|---|---|---|---|
+| ... | ... | ... | Notes |
 
 
 #### Refs
@@ -94,9 +93,9 @@ ___
 ### Coding <a name ="coding"> </a>
 Last update: 28.09.2023
 
-|  | Price | Notes |
-|---|---|---|
-| [Cursor](https://www.cursor.sh) | | code with ChatGPT 3.5 and 4. VScode layout |
+|  | Free | Paid | Notes |
+|---|---|---|---|
+| [Cursor](https://www.cursor.sh) | | | code with ChatGPT 3.5 and 4. VScode layout |
 
 #### Refs 
 
