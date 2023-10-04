@@ -85,16 +85,27 @@ Last update: 26.09.2023
 ___
 
 ### Data analysis <a name ="data_analysis"> </a>
-Last update: 26.09.2023
+Last update: 04.10.2023
+
+|  | Free | Paid | Notes |
+|---|---|---|---|
+| [Powerdrill](https://powerdrill.ai) | Currently Free | | Chat with own data |
 
 #### Refs
-
 ___
 
 ### Research <a name ="research"> </a>
-Last update: 26.09.2023
+Last update: 04.10.2023
+
+|  | Free | Paid | Notes |
+|---|---|---|---|
+| [Quivr](https://www.quivr.app) | V | | Chat with documents / data. Also local. |
+
 
 #### Refs
+|  | Notes |
+|---|---|
+| [Andy Stapleton](https://www.youtube.com/@DrAndyStapleton) | Youtube PhD research-focused channel |
 
 ___
 
