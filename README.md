@@ -167,7 +167,7 @@ Last update: 04.10.2023
 | Robert Scoble | [@Scobleizer](https://twitter.com/Scobleizer) | Ai News + Lists on products etc. |
 | Bindu Reddi | [@bindureddy](https://twitter.com/bindureddy) | CEO of AbacusAI|
 | Mckay Wrigley | [@mckaywrigley](https://twitter.com/mckaywrigley) | Very active tester of new AI coding tools |
-| Killian | @hellokillian | Author of openInterpreter |
+| Killian | [@hellokillian](https://twitter.com/hellokillian) | Author of openInterpreter |
 | Andrej Karpathy | [@karpathy](https://twitter.com/karpathy) | One of the fathers of ChatGPT |
 | Jim Fan | [@DrJimFan](https://twitter.com/DrJimFan) | Forefront researcher in AI | 
 
