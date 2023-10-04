@@ -142,10 +142,12 @@ Last update: 26.09.2023
 Last update: 26.09.2023
 
 ### People <a name ="people"> </a>
-Last update: 02.10.2023
+Last update: 04.10.2023
 |  | Social | Notes |
 |---|---|---|
 | Robert Scoble | [@Scobleizer](https://twitter.com/Scobleizer) | Ai News + Lists on products etc. |
+| Bindu Reddi | [@bindureddy](https://twitter.com/bindureddy) | CEO of AbacusAI|
+| Mckay Wrigley | [@mckaywrigley](https://twitter.com/mckaywrigley) | Very active tester of new AI coding tools |
 
 ### Repos <a name ="repos"> </a>
 Last update: 02.10.2023
