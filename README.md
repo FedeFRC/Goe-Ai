@@ -37,6 +37,13 @@ ___
 | [Bard](https://bard.google.com/?hl=en) | -> | -> | Not available in EU |
 | [Claude](https://claude.ai) | -> | -> | Not available in EU |
 
+| Local | Free | Paid | Notes |
+|---|---|---|---|
+| [Ollama](https://ollama.ai) | V | | Run multiple models locally |
+| [Open Interpreter](https://openinterpreter.com) | V | | Chat with your own computer - Super cool! |
+
+
+
 #### Refs
 
 ___
@@ -148,6 +155,9 @@ Last update: 04.10.2023
 | Robert Scoble | [@Scobleizer](https://twitter.com/Scobleizer) | Ai News + Lists on products etc. |
 | Bindu Reddi | [@bindureddy](https://twitter.com/bindureddy) | CEO of AbacusAI|
 | Mckay Wrigley | [@mckaywrigley](https://twitter.com/mckaywrigley) | Very active tester of new AI coding tools |
+| Killian | @hellokillian | Author of openInterpreter |
+| Andrej Karpathy | [@karpathy](https://twitter.com/karpathy) | One of the fathers of ChatGPT |
+| Jim Fan | [@DrJimFan](https://twitter.com/DrJimFan) | Forefront researcher in AI | 
 
 ### Repos <a name ="repos"> </a>
 Last update: 02.10.2023
