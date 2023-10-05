@@ -28,13 +28,13 @@ ___
 ## Ai Apps / Tools <a name ="aiapps"> </a>
 
 ### LLMs
-##### Last update: 04.10.2023
+##### Last update: 05.10.2023
 
 |  | Free | Paid | Notes |
 |---|---|---|---|
 | [ChatGPT](https://chat.openai.com) | v3.5 | 20€/Month - v4 | Best LLM so far |
 | [Perplexity](https://www.perplexity.ai) | uses ChatGPT 3.5 | 20€/Month - ChatGPT 4 / Claude2 + | Internet access / Ref links to websites / Files upload |
-| [Bard](https://bard.google.com/?hl=en) | -> | -> | Not available in EU |
+| [Bard](https://bard.google.com/?hl=en) | V | X | Google's chatGPT |
 | [Claude](https://claude.ai) | -> | -> | Not available in EU |
 
 #### Local
