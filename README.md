@@ -91,6 +91,7 @@ Last update: 04.10.2023
 |  | Free | Paid | Notes |
 |---|---|---|---|
 | [Powerdrill](https://powerdrill.ai) | Currently Free | | Chat with own data |
+| [CleanLab](https://cleanlab.ai/) | V | Premium | Clean data with AI |
 
 #### Refs
 ___
