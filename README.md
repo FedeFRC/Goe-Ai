@@ -120,6 +120,17 @@ Last update: 28.09.2023
 
 ___
 
+### Extensions <a name ="extensions"> </a>
+Last update: 06.10.2023
+
+|  | Free | Paid | Notes |
+|---|---|---|---|
+| [Harpa](https://harpa.ai) | V | | Chrome everything-extension |
+
+#### Refs 
+
+___
+
 ## Theory of Machine & Deep Learning - Resources <a name ="theory"> </a>
 Last update: 27.09.2023
 
