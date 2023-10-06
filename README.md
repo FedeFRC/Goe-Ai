@@ -86,7 +86,7 @@ Last update: 26.09.2023
 ___
 
 ### Data analysis <a name ="data_analysis"> </a>
-Last update: 04.10.2023
+Last update: 06.10.2023
 
 |  | Free | Paid | Notes |
 |---|---|---|---|
