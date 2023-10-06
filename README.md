@@ -13,6 +13,7 @@ This repo is meant to help organize the work of the AI group in Göttingen.
 - [Data Analysis](#data_analysis)
 - [Research](#research)
 - [Coding](#coding)
+- [Extensions](#extensions)
 - [Theory of Machine and Deep Learning](#theory)
   - [Books](#theory_books)
   - [Courses](#theory_courses)
