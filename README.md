@@ -29,7 +29,7 @@ ___
 ## Ai Apps / Tools <a name ="aiapps"> </a>
 
 ### LLMs
-##### Last update: 05.10.2023
+##### Last update: 21.10.2023
 
 |  | Free | Paid | Notes |
 |---|---|---|---|
@@ -42,6 +42,7 @@ ___
 |  | Free | Paid | Notes |
 |---|---|---|---|
 | [Ollama](https://ollama.ai) | V | | Run multiple models locally |
+| [LM Studio](https://lmstudio.ai) | V | | Run multiple models locally |
 | [Open Interpreter](https://openinterpreter.com) | V | | Chat with your own computer - Super cool! |
 
 
