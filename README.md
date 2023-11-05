@@ -54,7 +54,7 @@ ___
 ### Creativity <a name ="creativity"> </a>
 
 #### Drawing <a name ="drawing"> </a>
-Last update: 03.10.2023
+Last update: 05.11.2023
 
 |  | Free | Paid | Notes |
 |---|---|---|---|
@@ -62,9 +62,11 @@ Last update: 03.10.2023
 | [Stable Diffusion](https://stability.ai) | V | X | Can be used locally |
 | [Midjourney](https://www.midjourney.com/) | X | 10€/Month (min) | Beautiful images but paid + only on Discord |
 | [DALL·E 3](https://www.bing.com) | V (on BING) | | Beautiful images |
-| | | |
+| Editing | | |
 | [Clipdrop](https://clipdrop.co) | V | 9€/Month - Extra Features | Edit Images - Remove bg, Upscale, etc. (by Stability.ai)|
-
+| Extra | | |
+| [Illusion Diffusion](https://huggingface.co/spaces/AP123/IllusionDiffusion) | V | | Stable Diffusion on Black&White input images |
+| [LCM](https://huggingface.co/spaces/SimianLuo/Latent_Consistency_Model) | V | | (Almost) Real-time Stable Diffusion image generation |
 
 #### Video <a name ="video"> </a>
 Last update: 27.09.2023
